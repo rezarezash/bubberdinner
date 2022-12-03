@@ -1,0 +1,8 @@
+﻿POST  {{host}}/Authentication/Login
+Content-Type: application/json
+Accept: application/json
+
+{
+  "email": "shirazi.reza.sh@gmail.com",
+  "password": "Welcome123"
+}

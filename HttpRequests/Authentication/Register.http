@@ -1,0 +1,10 @@
+﻿POST  {{host}}/Authentication/Register
+Content-Type: application/json
+Accept: application/json
+
+{
+"firstName": "",
+"lastName": "",
+"email": "",
+"password": ""
+}

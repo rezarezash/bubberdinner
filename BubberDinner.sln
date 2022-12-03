@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubberDinner.Api", "BubberDinner.Api\BubberDinner.Api.csproj", "{063F74E6-82F7-413B-BC2F-0147CE8BA457}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubberDinner.Contracts", "BubberDinner.Contracts\BubberDinner.Contracts.csproj", "{20177C64-702C-44C5-B568-5A21DF90F3F7}"
