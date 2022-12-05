@@ -1,4 +1,5 @@
-﻿using BubberDinner.Application.Services.Authentication;
+﻿using BubberDinner.Application.Common.Interfaces.Authentication;
+using BubberDinner.Application.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BubberDinner.Application;
